@@ -90,14 +90,10 @@ const Shashank = {
             <img alt="Demo" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank96&repo=Demo&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
           
-       <td><a href="(https://github.com/Shashankpatel96/react-weather)" target="_blank">
-            <img alt="Demo" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank96&repo=React-Weather&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
-        </a></td>
         </tr>
         
     </table>
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to learn new languages</b>  if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
