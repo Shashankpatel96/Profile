@@ -2,13 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I+am+Shashank+,+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/fried-brain?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
- <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/fried-brain?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
-<img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/fried_brain_?color=ffb300&label=Fried%20Brain&logo=twitter&logoColor=ffb300&style=for-the-badge">
- </p>
- 
+
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
 
 <p align="center"> 
