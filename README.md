@@ -86,14 +86,14 @@ const Shashank = {
 <div align = "center">
     <table>
         <tr>
-        <td><a href="(https://github.com/Shashankpatel96/demo)" target="_blank">
-            <img alt="Demo" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank96&repo=Demo&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+        <td><a href="https://github.com/shashank96/demo" target="_blank">
+            <img alt="demo" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank96&repo=demo&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
-          
-        </tr>
-        
+        <td><a href="https://github.com/shashank96/react-weather" target="_blank">
+            <img alt="React-Weather" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank96&repo=react-weather&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+        </a></td>
+        </tr>   
     </table>
 </div>
 
-
----
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning new languages</b>  if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
